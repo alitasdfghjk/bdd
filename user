@@ -1,0 +1,3 @@
+CREATE USER admin_user WITH PASSWORD 'Admin123';
+CREATE USER seller_user WITH PASSWORD 'Seller123';
+CREATE USER customer_user WITH PASSWORD 'Customer123';
