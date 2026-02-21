@@ -1,0 +1,3 @@
+SELECT s.name AS seller, p.name AS product, p.price
+FROM products p
+JOIN sellers s ON p.seller_id = s.seller_id;
