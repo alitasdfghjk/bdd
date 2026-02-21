@@ -1,0 +1,3 @@
+GRANT kolesa_admin TO admin_user;
+GRANT kolesa_seller TO seller_user;
+GRANT kolesa_customer TO customer_user;
